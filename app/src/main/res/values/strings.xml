@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gameface</string>
+    <string name="get_started">Get Started</string>
+    <string name="get_started_button">Get Started Button</string>
+    <string name="gameface_sports_photography">Gameface Sports Photography</string>
+    <string name="mens">Mens</string>
+    <string name="desired_league">DESIRED LEAGUE</string>
+    <string name="next">Next</string>
+    <string name="coed">Coed</string>
+    <string name="womans">Womans</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="backgroundimage">backgroundimage</string>
+    <string name="nube">Nube</string>
+    <string name="loadingTextString">Looking for a </string>
+    <string name="loadingTextString2">League near you</string>
+    <string name="pro">Pro</string>
+    <string name="skill_level">Skill Level</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
